@@ -1,3 +1,5 @@
+# [As of rust-sdl2v0.27 this crate is deprecated and its functionality has been moved as a feature in rust-sdl2](https://github.com/AngryLawyer/rust-sdl2)
+
 # Rust-SDL2_gfx
 
 [![Travis Build Status](https://travis-ci.org/andelf/rust-sdl2_gfx.svg?branch=master)](https://travis-ci.org/andelf/rust-sdl2_gfx)
